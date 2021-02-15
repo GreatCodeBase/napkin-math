@@ -1,3 +1,5 @@
+# It is a good method to evaluate something for IT Infra
+
 # Napkin Math
 
 The goal of this project is to collect software, numbers, and techniques to
